@@ -58,10 +58,15 @@ loop use-case
 
 ---
 
-> -- dashboard
+> -- dashboard (admin user)
 >
 > - username : osmanzakaria
-> - password : osman@123
+> - password : osman@1234
+
+> -- dashboard (another user)
+>
+> - username : osmanzakaria1
+> - password : osman@1234
 
 > -- database
 

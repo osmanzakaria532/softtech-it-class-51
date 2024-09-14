@@ -5,6 +5,7 @@
 
             <div class="contentTitle">
                 <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+                <h4>sub-title : <?php echo get_post_meta(get_the_id(), 'osman', true); ?></h4>
             </div>
 
             <div class="contentText">

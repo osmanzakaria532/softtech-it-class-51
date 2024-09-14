@@ -1,3 +1,5 @@
+<?php require_once('functions.php'); ?>
+
 <!DOCTYPE html>
 <html <?php language_attributes(); ?> > <!-- dynamically add language -->
   <head>
